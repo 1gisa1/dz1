@@ -1,0 +1,154 @@
+header {
+    background-color: #923158;
+    color: #fff;
+    padding: 10px;
+}
+
+.menu {
+
+    margin-top: 10px;
+    padding-top: 15px;
+    background-color: #6e1137;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 60px;
+}
+
+.menu p {
+    margin-left: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+
+aside.left-panel {
+    color: #333;
+    padding-top: 10px;
+    width: 25%;
+    float: left;
+}
+
+/* Стили для первого блока в левой боковой панели */
+.left-panel .block1 {
+    background-color: #b65b80;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+/* Стили для второго блока в левой боковой панели */
+.left-panel .block2 {
+    background-color: #b65b80;
+    color: white;
+    padding: 40px;
+    text-align: left;
+
+}
+
+.text {
+    margin-right: -10px;
+    display: inline-block;
+}
+
+
+.main-content {
+    background-color: #b65b80;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 400px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+
+.main-text {
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    padding-left: 70px;
+    padding-top: 15px;
+}
+
+
+.section {
+    padding-left: 70px;
+
+}
+
+
+.section1{
+    background-color: #db92af;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 100px;
+    width: 670px;
+}
+
+.section2{
+   margin-top: 20px;
+    background-color: #db92af;
+    display: inline-block;
+    box-sizing: border-box;
+    height: 100px;
+    width: 670px;
+}
+
+.section1-text{
+    margin-left: 20px;
+    color:white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.section2-text{
+    margin-left: 20px;
+    color:white;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+
+.right-panel{
+    background-color: #b65b80;
+    display: inline-block;
+    box-sizing: border-box;
+    float: right;
+    height: 245px;
+    width: 180px;
+    margin-top: 10px;
+    margin-left: -20px;
+
+}
+
+.right-panel-t{
+
+    margin: auto;
+    color: #fff;
+    width: 0;
+    padding: 20px 10px;
+    word-break: break-all;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.footer{
+
+    margin-top: 10px;
+    background-color: #6e1137;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 1425px;
+}
+
+.FOOTER{
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+    margin-left: 10px;
+}

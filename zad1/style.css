@@ -1,0 +1,118 @@
+
+.header{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+.products-list{
+    text-align: center;
+}
+.Pepper{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Apple{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+.Cheese{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+.Corn{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+.Mushroom{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Garlic{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Beef{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Fish{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Eggs{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.Coriander{
+    display: inline-block;
+    width: 140px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+img{
+    width: 140px;
+}
+
+.that-s-all{
+    font-weight: 900;
+    font-size: 16px;
+}

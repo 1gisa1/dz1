@@ -1,0 +1,28 @@
+img{
+    width: 40px;
+    margin-left: -30px;
+}
+
+.widget{
+    background-color: darkgray;
+    width: 170px;
+    font-size: 14px;
+}
+
+.widget ul li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.widget ul li:active {
+    background-color: black;
+}
+
+.widget ul li a {
+    margin-left: 10px;
+    text-align: left;
+    flex-grow: 1;
+    color: white;
+    text-decoration: none;
+}
